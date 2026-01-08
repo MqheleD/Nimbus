@@ -1,9 +1,11 @@
+import {BrowswerRouter as Router, Routes, Route} from 'react-router-dom'
+
 export default function App() {
-
-
   return (
-    <>
-      <div className='text-[11px]'>hello world</div>
-    </>
+    <BrowswerRouter>
+      <Routes>
+
+      </Routes>
+    </BrowswerRouter>
   )
 }
