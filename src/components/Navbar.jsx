@@ -11,7 +11,7 @@ export default function Navbar() {
                     Nimbus
                 </Link>
                 <div>
-                    Powered by <Link to="https://openai.com" className="font-semibold text-gray-700 hover:text-blue-500 transition duration-300">QORSYN</Link>
+                    Powered by <Link to="" className="font-semibold text-gray-700 hover:text-blue-500 transition duration-300">QORSYN</Link>
                 </div>
                 <nav>
                     <ul className="flex space-x-6"> 
